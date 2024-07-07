@@ -11152,6 +11152,10 @@ pre {
   display: flex;
 }
 
+.socials span {
+  margin-top: 6px;
+}
+
 .socials .social-item {
   display: block;
   margin: 0 5px;
